@@ -1,228 +1,97 @@
-# 👋 Hi, I'm Debapriyo Mudi
+👋 Hi, I'm Debapriyo Mudi
 
-### 💻 Computer Science & Engineering Student | Aspiring Software Developer
+💻 CSE Student | Aspiring Software Developer
 
-I am a Computer Science & Engineering student at Asansol Engineering College, passionate about software development, problem-solving, and building practical real-world applications.
+Passionate about software development, problem solving, and building practical applications.
 
-I work with Java, Python, C, Data Structures & Algorithms, Web Development, and Databases. I enjoy learning new technologies, experimenting with ideas, and turning concepts into functional projects.
+🛠️ Technical Skills
 
----
+- 💻 Programming: Java, Python, C
+- 🧠 Computer Science: DSA, OOP, DBMS, Problem Solving
+- 🌐 Web: HTML5, CSS3, JavaScript, JSP, Jakarta Servlets, JDBC
+- 🗄️ Database: MySQL, SQL, CRUD, Joins, Database Design
+- 🔧 Tools: Git, GitHub, Maven, Eclipse, Apache Tomcat, VS Code
 
-## 🚀 About Me
+☕ Java Focus
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Passionate about Software Development
-- 🧠 Strong interest in Data Structures & Algorithms
-- ☕ Currently focusing on Java and DSA
-- 🐍 Experienced with Python
-- 🔵 Practiced programming and DSA using C
-- 🌐 Interested in Web & Backend Development
-- 🗄️ Interested in Database Management and SQL
-- 🔧 Familiar with Git, GitHub, Maven, Eclipse, and Apache Tomcat
-- 🏆 Interested in Hackathons and Collaborative Development
-- 📚 Always learning and improving my technical skills
+Core Java • OOP • Collections • Exception Handling • JDBC • JSP • Jakarta Servlets • Maven • Java Web Applications
 
----
+🧠 DSA
 
-# 🛠️ Technical Skills
+Linked Lists • Stacks & Queues • Trees • Graphs • Searching • Sorting • Recursion • Hashing • Complexity Analysis
 
-## 💻 Programming Languages
+🔧 Development Skills
 
-- ☕ Java
-- 🐍 Python
-- 🔵 C
+- 🐞 Debugging & Error Handling
+- 🔐 Authentication & Sessions
+- 🔗 Database Integration
+- 🌿 Git & Version Control
+- 🧹 Clean Code
+- 📁 Project Organization
 
-## 🧠 Data Structures & Computer Science
+📚 Currently Learning
 
-- 📊 Data Structures & Algorithms
-- 🧩 Problem Solving
-- 🏗️ Object-Oriented Programming
-- 🗃️ Database Management Systems
-- ⏱️ Algorithms & Complexity
-- 📁 File Handling
-- 🔄 Recursion
-- 🔍 Searching & Sorting
-- 🔗 Linked Lists
-- 📚 Stacks & Queues
-- 🌳 Trees & Graphs
-- #️⃣ Hashing
-- 🧠 Logical & Analytical Thinking
+🚀 Advanced DSA • Advanced Java • Full-Stack Development • Advanced SQL • Software Engineering • Advanced Git/GitHub
 
-## 🌐 Web Development
+🎯 Goals
 
-- 🌐 HTML5
-- 🎨 CSS3
-- ⚡ JavaScript
-- 📄 JSP
-- 🔌 Jakarta Servlets
-- 🔗 JDBC
-- 📱 Responsive Web Design
-- 🔄 Frontend & Backend Integration
+- Strengthen Java & DSA
+- Build real-world applications
+- Improve database skills
+- Participate in hackathons
+- Contribute to open source
+- Work on collaborative projects
 
-## 🗄️ Database Technologies
+💡 Developer Mindset
 
-- 🐬 MySQL
-- 📝 SQL
-- 🔗 JDBC
-- 🗃️ Relational Database Concepts
-- 🔄 CRUD Operations
-- 🔐 Database Connectivity
-- 📐 Database Design
-- 🔎 SQL Queries & Joins
+«Learn → Build → Test → Debug → Improve → Repeat.»
 
-## 🔧 Development Tools
+⭐ Keep Learning. Keep Building. Keep Improving. 🚀👋 Hi, I'm Debapriyo Mudi
 
-- 🐙 Git
-- 🐱 GitHub
-- 🛠️ Eclipse IDE
-- 📦 Maven
-- 🐱 Apache Tomcat
-- 💻 Visual Studio Code
-- 🌿 Git Branching
-- 🔀 Git Collaboration
-- 📌 Version Control
+💻 CSE Student | Aspiring Software Developer
 
----
+Passionate about software development, problem solving, and building practical applications.
 
-# ☕ Java Development
+🛠️ Technical Skills
 
-My primary development focus is **Java**, with practical experience in:
+- 💻 Programming: Java, Python, C
+- 🧠 Computer Science: DSA, OOP, DBMS, Problem Solving
+- 🌐 Web: HTML5, CSS3, JavaScript, JSP, Jakarta Servlets, JDBC
+- 🗄️ Database: MySQL, SQL, CRUD, Joins, Database Design
+- 🔧 Tools: Git, GitHub, Maven, Eclipse, Apache Tomcat, VS Code
 
-- ☕ Core Java
-- 🏗️ Object-Oriented Programming
-- 📦 Collections Framework
-- ⚠️ Exception Handling
-- 📁 File Handling
-- 🔄 Multithreading Concepts
-- 🔗 JDBC
-- 🌐 Jakarta Servlets
-- 📄 JSP
-- 📦 Maven-based Projects
-- 🖥️ Java Web Applications
+☕ Java Focus
 
----
+Core Java • OOP • Collections • Exception Handling • JDBC • JSP • Jakarta Servlets • Maven • Java Web Applications
 
-# 🐍 Python
+🧠 DSA
 
-- 🐍 Python Programming
-- 🧠 Problem Solving
-- 📊 Data Structures
-- 🔄 Functions & Modules
-- 📁 File Handling
-- ⚙️ Basic Automation
-- 🧮 Algorithm Implementation
+Linked Lists • Stacks & Queues • Trees • Graphs • Searching • Sorting • Recursion • Hashing • Complexity Analysis
 
----
+🔧 Development Skills
 
-# 🔵 C Programming
+- 🐞 Debugging & Error Handling
+- 🔐 Authentication & Sessions
+- 🔗 Database Integration
+- 🌿 Git & Version Control
+- 🧹 Clean Code
+- 📁 Project Organization
 
-- 🔵 C Programming Fundamentals
-- 🧠 DSA Implementation
-- 👉 Pointers
-- 🔗 Linked Lists
-- 📚 Stack & Queue
-- 🔍 Searching & Sorting
-- 🔄 Recursion
-- 💾 File Handling
-- 🧩 Problem Solving
+📚 Currently Learning
 
----
+🚀 Advanced DSA • Advanced Java • Full-Stack Development • Advanced SQL • Software Engineering • Advanced Git/GitHub
 
-# 🧰 Software Development Skills
+🎯 Goals
 
-- 🔄 Software Development Life Cycle
-- 🐞 Debugging & Troubleshooting
-- 🧪 Testing & Error Handling
-- 🔍 Code Analysis
-- 🧹 Clean & Maintainable Code
-- 📁 Project Structure & Organization
-- 🔗 Backend Integration
-- 🗄️ Database Integration
-- 🔐 Authentication & Session Management
-- 📦 Dependency Management
-- 🌿 Version Control with Git
+- Strengthen Java & DSA
+- Build real-world applications
+- Improve database skills
+- Participate in hackathons
+- Contribute to open source
+- Work on collaborative projects
 
----
+💡 Developer Mindset
 
-# 🤝 Soft Skills
+«Learn → Build → Test → Debug → Improve → Repeat.»
 
-- 🧠 Problem Solving
-- 🔎 Analytical Thinking
-- 💡 Creativity
-- 🤝 Team Collaboration
-- 🗣️ Communication
-- ⏱️ Time Management
-- 📚 Continuous Learning
-- 🎯 Goal Oriented
-- 🔥 Self-Motivation
-- 🧩 Adaptability
-
----
-
-# 📚 Currently Learning
-
-- 🚀 Advanced Data Structures & Algorithms
-- ☕ Advanced Java Development
-- 🌐 Full-Stack Web Development
-- 🗄️ Advanced SQL & Database Management
-- 🏗️ Software Engineering & System Design
-- 🐙 Advanced Git & GitHub
-- 💡 Modern Software Development Practices
-
----
-
-# 🎯 Goals
-
-- 🧠 Strengthen DSA and problem-solving skills
-- ☕ Become highly proficient in Java
-- 🌐 Build more full-stack applications
-- 🗄️ Improve database design and SQL skills
-- 🏆 Participate in Hackathons
-- 🤝 Contribute to collaborative projects
-- 🌍 Explore Open Source Development
-- 🚀 Build impactful real-world applications
-
----
-
-# 💡 Developer Mindset
-
-> **"Learn → Build → Break → Debug → Improve → Repeat."**
-
-I believe the best way to learn software development is by building, experimenting, solving problems, and continuously improving.
-
----
-
-# 📊 Development Focus
-
-### 💻 Programming
-**Java • Python • C**
-
-### 🧠 Computer Science
-**DSA • OOP • DBMS • Problem Solving**
-
-### 🌐 Development
-**Web Development • Backend Development • Database Development • Version Control**
-
----
-
-# 📈 Learning Journey
-
-**Programming → DSA → OOP → Databases → Web Development → Backend Development → Full-Stack Development → Advanced Software Engineering**
-
----
-
-# 🤝 Let's Connect & Collaborate
-
-I'm interested in:
-
-- 💡 Innovative Ideas
-- 🏆 Hackathons
-- 🤝 Team Projects
-- 🌍 Open Source Development
-- 📚 Learning New Technologies
-- 🚀 Building Real-World Solutions
-
----
-
-
-### ⭐ Keep Learning. Keep Building. Keep Improving. 🚀
+⭐ Keep Learning. Keep Building. Keep Improving. 🚀
